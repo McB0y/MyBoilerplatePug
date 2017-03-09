@@ -1,0 +1,2 @@
+1.- Tengo algunos proyectos mas que estaría mejor utilizar la plantilla de boilerplate
+2.- Seria mucho más ágil el tener la plantilla y sólo el tomarla cuando la necesite.
